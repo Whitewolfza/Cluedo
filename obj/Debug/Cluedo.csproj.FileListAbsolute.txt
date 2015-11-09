@@ -1,0 +1,10 @@
+D:\Bennie\Code\Cluedo\Cluedo\bin\Debug\Cluedo.exe.config
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.csprojResolveAssemblyReference.cache
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.Form1.resources
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.Properties.Resources.resources
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.GenerateResource.Cache
+D:\Bennie\Code\Cluedo\Cluedo\bin\Debug\Cluedo.exe
+D:\Bennie\Code\Cluedo\Cluedo\bin\Debug\Cluedo.pdb
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.exe
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.pdb
+D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.Board.resources
