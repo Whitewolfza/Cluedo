@@ -8,3 +8,6 @@ D:\Bennie\Code\Cluedo\Cluedo\bin\Debug\Cluedo.pdb
 D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.exe
 D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.pdb
 D:\Bennie\Code\Cluedo\Cluedo\obj\Debug\Cluedo.Board.resources
+D:\Code\GIT\bin\Debug\Cluedo.exe.config
+D:\Code\GIT\obj\Debug\Cluedo.exe
+D:\Code\GIT\obj\Debug\Cluedo.pdb

@@ -17,6 +17,7 @@ namespace Cluedo
         List<Card> Suspects;
         List<Card> Weapons;
         List<Card> Mine;
+
         List<Card> Murder;
         List<Dice> Roller;
         int Roll;
